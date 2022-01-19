@@ -33,3 +33,8 @@ D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\Elev
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.csproj.CopyComplete
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.dll
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\obj\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.Owin.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\System.Web.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\System.Web.Http.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\Microsoft.Owin.Cors.xml
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Models\bin\Debug\System.Web.Http.Cors.xml

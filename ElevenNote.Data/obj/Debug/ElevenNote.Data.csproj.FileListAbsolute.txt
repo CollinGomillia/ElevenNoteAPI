@@ -33,3 +33,11 @@ D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\Eleven
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\bin\Debug\System.Web.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\bin\Debug\Microsoft.Owin.Cors.xml
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\bin\Debug\System.Web.Http.Cors.xml
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.Initialmigration.resources

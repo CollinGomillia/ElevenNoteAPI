@@ -33,3 +33,14 @@ D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\El
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.csproj.CopyComplete
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.dll
 D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\obj\Debug\ElevenNote.Services.pdb
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.pdb
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Data.dll.config
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.pdb
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\ElevenNote.Models.dll.config
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\System.Web.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.dll
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\Microsoft.Owin.Cors.xml
+D:\ElevenFiftySD116\BlueBadge\ElevenNote.WebAPI\ElevenNote.Services\bin\Debug\System.Web.Http.Cors.xml
